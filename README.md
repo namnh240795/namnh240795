@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+I'm a Developer.
+
+- 💬 I’m currently working on AgileTech VietNam.
+
+### Open Source Projects
+[![Transform number to vietnamese text](https://github.com/namnh240795/number-to-text-vietnamese)
+[![Simple Template for New Mobile in ReactNative](https://github.com/agiletechvn/RN-Template)
+
+### Github Stats
+[![Nam Github Stats](https://github-readme-stats.vercel.app/api?username=namnh240795&count_private=true&theme=dark&show_icons=true)](https://github.com/dangngocduc)
+
+
