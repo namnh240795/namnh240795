@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a Developer.
 
-- 💬 I’m currently working on AgileTech VietNam.
+- 💬 I’m currently working at AgileTech VietNam.
 
 ### Open Source Projects
 - [Transform Number To Text](https://github.com/namnh240795/number-to-text-vietnamese)
