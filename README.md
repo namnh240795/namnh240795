@@ -24,6 +24,6 @@ I'm a Developer.
 - [Simple Template for New Mobile in ReactNative](https://github.com/agiletechvn/RN-Template)
 
 ### Github Stats
-[![Nam Github Stats](https://github-readme-stats.vercel.app/api?username=namnh240795&count_private=true&theme=dark&show_icons=true)](https://github.com/dangngocduc)
+[![Nam Github Stats](https://github-readme-stats.vercel.app/api?username=namnh240795&count_private=true&theme=dark&show_icons=true)](https://github.com/namnh240795)
 
 
