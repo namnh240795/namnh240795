@@ -30,11 +30,11 @@ I'm a Developer.
 
 <div align='center'>
   <img src="https://img.shields.io/badge/AWS Fargate-FF9900.svg?style=flat-square&logo=awsfargate&logoColor=white" alt="AWS Fargate" />
-  <img src="https://img.shields.io/badge/AWS ECS-FF9900.svg?style=flat-square&logo=awsecs&logoColor=white" alt="AWS ECS" />
-  <img src="https://img.shields.io/badge/AWS EC2-FF9900.svg?style=flat-square&logo=awsec2&logoColor=white" alt="AWS EC2" />
-  <img src="https://img.shields.io/badge/AWS S3-FF9900.svg?style=flat-square&logo=awss3&logoColor=white" alt="AWS S3" />
-  <img src="https://img.shields.io/badge/AWS RDS-FF9900.svg?style=flat-square&logo=awsrds&logoColor=white" alt="AWS RDS" />
-  <img src="https://img.shields.io/badge/AWS API Gateway-FF9900.svg?style=flat-square&logo=awsapigateway&logoColor=white" alt="AWS API Gateway" />
+  <img src="https://img.shields.io/badge/AWS ECS-FF9900.svg?style=flat-square&logo=amazonecs&logoColor=white" alt="AWS ECS" />
+  <img src="https://img.shields.io/badge/AWS EC2-FF9900.svg?style=flat-square&logo=amazonec2&logoColor=white" alt="AWS EC2" />
+  <img src="https://img.shields.io/badge/AWS S3-FF9900.svg?style=flat-square&logo=amazons3&logoColor=white" alt="AWS S3" />
+  <img src="https://img.shields.io/badge/AWS RDS-FF9900.svg?style=flat-square&logo=amazonrds&logoColor=white" alt="AWS RDS" />
+  <img src="https://img.shields.io/badge/AWS API Gateway-FF9900.svg?style=flat-square&logo=amazonapigateway&logoColor=white" alt="AWS API Gateway" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white" alt="SASS" />
