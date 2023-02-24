@@ -37,7 +37,7 @@ I'm a Developer.
   <img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" />
   <img src="https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="Typescript" />
   <img src="https://img.shields.io/badge/Reactjs-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="Reactjs" />
-  <img src="https://img.shields.io/badge/Reactjs-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React-native" />
+  <img src="https://img.shields.io/badge/ReactNative-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React-native" />
   <img src="https://img.shields.io/badge/Nextjs-black?style=flat-square&logo=next.js&logoColor=white" alt="Nextjs" />
   <img src="https://img.shields.io/badge/Vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D" alt="Vuejs" />
   <img src="https://img.shields.io/badge/Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" />
