@@ -39,6 +39,7 @@ I'm a Developer.
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white" alt="SASS" />
   <img src="https://img.shields.io/badge/LESS-%230db7ed.svg?style=flat-square&logo=less&logoColor=white" alt="LESS" />
+  <img src="https://img.shields.io/badge/expo-000020.svg?style=flat-square&logo=expo&logoColor=white" alt="EXPO" />
   <img src="https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" />
   <img src="https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="Typescript" />
