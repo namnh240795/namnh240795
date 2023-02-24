@@ -29,6 +29,8 @@ I'm a Developer.
 <h2 align='center'>Languages and Tools 🔧🏋</h2>
 
 <div align='center'>
+  <img src="https://img.shields.io/badge/Github Actions-2088FF.svg?style=flat-square&logo=githubactions&logoColor=white" alt="githubactions" />
+  <img src="https://img.shields.io/badge/Docker-2496ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS Fargate-FF9900.svg?style=flat-square&logo=awsfargate&logoColor=white" alt="AWS Fargate" />
   <img src="https://img.shields.io/badge/AWS ECS-FF9900.svg?style=flat-square&logo=amazonecs&logoColor=white" alt="AWS ECS" />
   <img src="https://img.shields.io/badge/AWS EC2-FF9900.svg?style=flat-square&logo=amazonec2&logoColor=white" alt="AWS EC2" />
