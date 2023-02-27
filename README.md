@@ -21,7 +21,8 @@ I'm a Developer.
 - 💬 Working on a prototype (Module federation on Mobile App).
 
 ### Open Source Projects
-- [Transform Integer Number To Vietnamese](https://github.com/namnh240795/number-to-text-vietnamese)
+- [Transform Integer Number To Vietnamese](https://www.npmjs.com/package/number-to-text-vietnamese)
+- [Handle Refresh token Brainlessly](https://www.npmjs.com/package/brainless-token-manager)
 
 ### Github Stats
 [![Nam Github Stats](https://github-readme-stats.vercel.app/api?username=namnh240795&count_private=true&theme=dark&show_icons=true)](https://github.com/namnh240795)
