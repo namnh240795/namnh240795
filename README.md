@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 I'm a Developer.
 
-- 💬 I’m currently working at AgileTech Vietnam.
 - 💬 Working on a prototype (Module federation on Mobile App).
 
 ### Open Source Projects
