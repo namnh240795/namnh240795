@@ -17,16 +17,45 @@ Here are some ideas to get you started:
 
 I'm a Developer.
 
-<img src="https://komarev.com/ghpvc/?username=namnh240795&style=flat" alt="namnh240795" />
-<img src="https://shields.io/github/stars/namnh240795">
-
-
-- 💬 Working on a prototype (Module federation on Mobile App).
+<div>
+  <img src="https://komarev.com/ghpvc/?username=namnh240795&style=flat" alt="namnh240795" />
+  <img src="https://shields.io/github/stars/namnh240795">
+</div>
 
 ### Open Source Projects
-- [Transform Integer Number To Vietnamese](https://www.npmjs.com/package/number-to-text-vietnamese)
-- [Handle Refresh token Brainlessly](https://www.npmjs.com/package/brainless-token-manager)
-- [react-native-svgs-to-icon](https://www.npmjs.com/package/react-native-svgs-to-icon)
+<table>
+  <thead>
+    <tr>
+      <th>
+        Project name
+      </th>
+      <th>
+        Description
+      </th>
+      <th>
+        Package
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>number-to-text-vietnamese</td>
+      <td>Transform Integer Number To Vietnamese</td>
+      <td>https://www.npmjs.com/package/number-to-text-vietnamese</td>
+    </tr>
+    <tr>
+      <td>brainless-token-manager</td>
+      <td>Provide token for requests, refreshing token automatically</td>
+      <td>https://www.npmjs.com/package/brainless-token-manager</td>
+    </tr>
+    <tr>
+      <td>react-native-svgs-to-icon</td>
+      <td>Generate iconfont and icon components in react-native (Similar as AntDesign Icons, MaterialIcons) </td>
+      <td>https://www.npmjs.com/package/react-native-svgs-to-icon</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### Github Stats
 [![Nam Github Stats](https://github-readme-stats.vercel.app/api?username=namnh240795&count_private=true&theme=dark&show_icons=true)](https://github.com/namnh240795)
