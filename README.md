@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 I'm a Developer.
 
 <img src="https://komarev.com/ghpvc/?username=namnh240795&style=flat" alt="namnh240795" />
+<img src="https://shields.io/github/stars/namnh240795">
 
 
 - 💬 Working on a prototype (Module federation on Mobile App).
