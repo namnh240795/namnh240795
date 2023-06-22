@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-Sofware Enginneer.
+I'm a Sofware Enginneer.
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=namnh240795&style=flat" alt="namnh240795" />
