@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I'm a Developer.
+Sofware Enginneer.
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=namnh240795&style=flat" alt="namnh240795" />
