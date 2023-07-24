@@ -57,7 +57,7 @@ I'm a Sofware Enginneer.
       <td>react-native-svgs-to-icon</td>
       <td>Generate iconfont and icon components in react-native (Similar as AntDesign Icons, MaterialIcons) </td>
       <td>https://www.npmjs.com/package/react-native-svgs-to-icon</td>
-      <td><<img src="https://img.shields.io/npm/dm/react-native-svgs-to-icon"/></td>
+      <td><img src="https://img.shields.io/npm/dm/react-native-svgs-to-icon"/></td>
     </tr>
   </tbody>
 </table>
