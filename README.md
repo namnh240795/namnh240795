@@ -35,6 +35,9 @@ I'm a Sofware Enginneer.
       <th>
         Package
       </th>
+      <th>
+        Downloads
+      </th>
     </tr>
   </thead>
   <tbody>
@@ -42,16 +45,19 @@ I'm a Sofware Enginneer.
       <td>number-to-text-vietnamese</td>
       <td>Transform Integer Number To Vietnamese</td>
       <td>https://www.npmjs.com/package/number-to-text-vietnamese</td>
+      <td>https://img.shields.io/npm/dm/number-to-text-vietnamese</td>
     </tr>
     <tr>
       <td>brainless-token-manager</td>
       <td>Provide token for requests, refreshing token automatically</td>
       <td>https://www.npmjs.com/package/brainless-token-manager</td>
+      <td>https://img.shields.io/npm/dm/brainless-token-manager</td>
     </tr>
     <tr>
       <td>react-native-svgs-to-icon</td>
       <td>Generate iconfont and icon components in react-native (Similar as AntDesign Icons, MaterialIcons) </td>
       <td>https://www.npmjs.com/package/react-native-svgs-to-icon</td>
+      <td>https://img.shields.io/npm/dm/react-native-svgs-to-icon</td>
     </tr>
   </tbody>
 </table>
