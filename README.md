@@ -62,6 +62,8 @@ I'm a Sofware Enginneer.
   </tbody>
 </table>
 
+### Certifications
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9149f12f-9a5c-4de1-afe3-380dab5760c7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ### Github Stats
 [![Nam Github Stats](https://github-readme-stats.vercel.app/api?username=namnh240795&count_private=true&theme=dark&show_icons=true)](https://github.com/namnh240795)
