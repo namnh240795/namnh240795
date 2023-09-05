@@ -63,9 +63,7 @@ I'm a Sofware Enginneer.
 </table>
 
 ### Certifications
-<div>
- <img src="https://www.credly.com/badges/9149f12f-9a5c-4de1-afe3-380dab5760c7/public_url" alt="Cloud Quest: Cloud Practitioners" />
-</div>
+[<img src="https://www.credly.com/badges/9149f12f-9a5c-4de1-afe3-380dab5760c7/public_url" alt="Cloud Quest: Cloud Practitioners" />](https://www.credly.com/badges/9149f12f-9a5c-4de1-afe3-380dab5760c7/public_url)
 
 
 
