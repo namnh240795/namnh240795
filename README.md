@@ -64,6 +64,8 @@ I'm a Sofware Enginneer.
 
 ### Certifications
 [<img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="Cloud Quest: Cloud Practitioners" />](https://www.credly.com/badges/9149f12f-9a5c-4de1-afe3-380dab5760c7/public_url)
+[AWS Skill Builder Course Completion Certificate.pdf](https://github.com/namnh240795/namnh240795/files/13577351/134_5_2878391_1701831404_AWS.Skill.Builder.Course.Completion.Certificate.pdf)
+
 
 
 
