@@ -59,6 +59,12 @@ I'm a Sofware Enginneer.
       <td>https://www.npmjs.com/package/react-native-svgs-to-icon</td>
       <td><img src="https://img.shields.io/npm/dm/react-native-svgs-to-icon"/></td>
     </tr>
+   <tr>
+    <td>@namnh240795/verify-commit-message-action@v1.12</td>
+    <td>Github action to verify message using commitlint</td>
+    <td>https://github.com/marketplace/actions/namnh240795-verify-commit-message-action</td>
+    <td></td>
+  </tr>
   </tbody>
 </table>
 
