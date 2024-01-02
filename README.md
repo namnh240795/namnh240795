@@ -65,6 +65,12 @@ I'm a Sofware Enginneer.
     <td>https://github.com/marketplace/actions/namnh240795-verify-commit-message-action</td>
     <td></td>
   </tr>
+  <tr>
+    <td>@namnh240795/verify-branch-name-action@v1.1.3</td>
+    <td>Github action to verify branch name</td>
+    <td>https://github.com/marketplace/actions/namnh240795-verify-branch-name-action</td>
+    <td></td>
+  </tr>
   </tbody>
 </table>
 
