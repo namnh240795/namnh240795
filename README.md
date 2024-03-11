@@ -42,6 +42,12 @@ I'm a Sofware Enginneer.
   </thead>
   <tbody>
     <tr>
+      <td>Aws CloudFormation</td>
+      <td>Template For Creating AWS Resource</td>
+      <td>https://github.com/namnh240795/aws-cloud-formation</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>number-to-text-vietnamese</td>
       <td>Transform Integer Number To Vietnamese</td>
       <td>https://www.npmjs.com/package/number-to-text-vietnamese</td>
