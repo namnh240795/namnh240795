@@ -21,6 +21,9 @@ I'm a Sofware Enginneer.
   <img src="https://komarev.com/ghpvc/?username=namnh240795&style=flat" alt="namnh240795" />
   <img src="https://shields.io/github/stars/namnh240795">
 </div>
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=namnh240795" alt="namnh240795" />  
+</div>
 
 ### Open Source Projects
 <table>
