@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 I'm a Sofware Enginneer.
 
+Main stack: Javascript, Typescript.
+Experience in: React, React Native, NestJS, AWS.
+
 <div>
   <img src="https://komarev.com/ghpvc/?username=namnh240795&style=flat" alt="namnh240795" />
   <img src="https://shields.io/github/stars/namnh240795">
